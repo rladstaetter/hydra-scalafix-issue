@@ -1,0 +1,8 @@
+.settings
+.cache
+.hydra/
+.idea/
+
+target/
+*.iml
+runs
